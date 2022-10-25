@@ -91,47 +91,16 @@
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://youtu.be/EPLjL1A6xWE"><img width="140px" src="https://i9.ytimg.com/vi/EPLjL1A6xWE/mq1.jpg?sqp=CPSQ4ZoG&rs=AOn4CLBx5rxRBmkCxsPysfjM5jS1w4l8cQ"></a></td>
 <td><a href="https://youtu.be/EPLjL1A6xWE">Como funciona Fila Estática e implementação</a><br/>Set 24, 2020</td></tr>
-<tr><td><a href="https://youtu.be/HZMdgZMKwKU"><img width="140px" src="https://i9.ytimg.com/vi/HZMdgZMKwKU/mq1.jpgsqp=CPiX4ZoG&rs=AOn4CLBBkWKbOrM83AJivV8PNX0NQqf-aw"></a></td>
+<tr><td><a href="https://youtu.be/HZMdgZMKwKU"><img width="140px" src="https://i9.ytimg.com/vi/HZMdgZMKwKU/mqdefault.jpg?v=63584c07&sqp=CPiX4ZoG&rs=AOn4CLCSL9s3Xv51AI2KQCDjAftM2goR8g"></a></td>
 <td><a href="https://youtu.be/HZMdgZMKwKU">Como funciona Fila de Prioridades e sua implementação em C</a><br/>Set 24, 2020</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
   </table>
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
-
-## 📈 Github Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCJQP1RFXTr-FV3FpmybofSQ)
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-<!--END_SECTION:activity-->
-
-</details>
 -----
-Credits: [DenverCoder1](https://github.com/DenverCoder1)
+Créditos: [DenverCoder1](https://github.com/DenverCoder1)
 
-Last Edited on: 15/01/2021
+Última edição: 25/10/2022
