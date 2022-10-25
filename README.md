@@ -6,7 +6,7 @@
 
 * 🎓 Estou no último semestre de Eng. de computação
 * 💻 Fazendo curso de python para ciência de dados
-* 📱 Construi alguns aplicativos web com low-code na ferramenta Glide
+* 📱 Construí alguns aplicativos web com low-code na ferramenta Glide
 * 📺 Realizo alguns vídeos sobre dicas de tecnologia no [YouTube](https://www.youtube.com/channel/UCJQP1RFXTr-FV3FpmybofSQ)
 
 
