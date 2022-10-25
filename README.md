@@ -10,7 +10,7 @@
 * 📺 Realizo alguns vídeos sobre dicas de tecnologia no [YouTube](https://www.youtube.com/channel/UCJQP1RFXTr-FV3FpmybofSQ)
 
 
-<h3 align="center">⬇ Role para baixo para ver <a href="https://github.com/JoaoVNSouza?tab=repositories">meu repositório</a>! ⭐ Constância sempre</h3>
+<h3 align="center">⬇ Role para baixo para ver <a href="https://github.com/JoaoVNSouza?tab=repositories">meu repositório</a>! ⭐</h3>
 
 ## 🙋‍♂️ Conecte-se comigo:
 
