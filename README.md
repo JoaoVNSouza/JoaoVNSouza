@@ -10,7 +10,7 @@
 * 📺 Realizo alguns vídeos sobre dicas de tecnologia no [YouTube](https://www.youtube.com/channel/UCJQP1RFXTr-FV3FpmybofSQ)
 
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Role para baixo para ver <a href="https://github.com/JoaoVNSouza?tab=repositories">meu repositório</a>! ⭐ Constância sempre</h3>
 
 ## 🙋‍♂️ Conecte-se comigo:
 
